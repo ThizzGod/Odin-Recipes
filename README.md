@@ -1,1 +1,1 @@
-# Odin-Recipes
+In this project I will be cataloging some recipes to practice what I've learned so far in HTML. At the end I will have demonstrated my ability to create headings, lists, display images, and utilize multiple pages within a site.
